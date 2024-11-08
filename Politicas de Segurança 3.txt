@@ -1,0 +1,29 @@
+- Política de Controle de Acesso a Dados Pessoais: Acesso a dados pessoais de clientes será limitado a usuários cuja função exija diretamente essa responsabilidade, e o acesso será monitorado por logs auditáveis. 
+
+ 
+
+- Política de Acesso Condicional para Arquivos Sensíveis: Certos arquivos, como relatórios financeiros ou bases de dados de clientes, só estarão acessíveis em condições específicas, como dentro da rede local ou com uma autorização de alto nível. 
+ 
+- Política de Limitação de Compartilhamento de Dados: Proibir o compartilhamento de informações sensíveis fora do sistema sem autorização, como o envio de relatórios por e-mail ou a exportação de grandes volumes de dados. 
+
+ 
+
+- Política de Auditoria de Funções Administrativas: Funções administrativas (como root ou administrador de banco de dados) terão suas atividades monitoradas e auditadas regularmente para garantir que os acessos e ações estão em conformidade com as políticas. 
+
+ 
+
+- Política de Bloqueio Automático de Acessos Suspeitos: O sistema deve detectar automaticamente acessos suspeitos (login simultâneo de diferentes localidades) e bloquear temporariamente a conta até que o usuário confirme sua identidade. 
+
+ 
+
+- Política de Conformidade com Normas de Segurança: Todos os acessos e permissões devem estar em conformidade com normas de segurança reconhecidas, como ISO 27001. 
+
+  
+
+- Política de Acesso Baseado em Risco: dentro da política está presente o sistema de análise de risco em tempo real que avalia o comportamento do usuário durante a tentativa de acesso (por exemplo, horário atípico, local desconhecido) e ajusta as permissões ou solicita autenticação adicional conforme o nível de risco identificado. 
+
+ 
+
+- Política de Acesso a Logs de Segurança 
+
+Apenas usuários autorizados do time de segurança terão acesso a logs de segurança detalhados, e qualquer tentativa de visualização ou modificação dos logs será registrada e auditada. 
