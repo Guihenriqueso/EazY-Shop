@@ -1,0 +1,21 @@
+- Política de Autenticação Forte: Os usuários devem utilizar autenticação de dois fatores para acessar o sistema, além de uma senha forte com no mínimo 8 caracteres, incluindo letras, números e símbolos. 
+
+ 
+
+- Política de Senhas: por inatividade de um período de 6 meses, o usuário tem de realizar a confirmação da senha, ou porventura fazer a alteração após o período de inatividade. 
+
+ 
+
+- Política de Revisão de Acessos: Realizar revisões trimestrais dos acessos dos usuários para garantir a conformidade com suas funções.  
+
+ 
+
+- Política de Controle de Acesso Condicional: O Acesso a plataforma só será permitido a partir de dispositivos previamente autorizados e dentro das redes IP já cadastradas pela empresa. 
+
+ 
+
+- Política de Privacidade de Dados: Apenas colaboradores com a necessidade extrema de acesso a dados pessoais e sensíveis dos clientes terão permissão para visualizar e manipular esses dados, de dados de acordo com a regulamentação de privacidade, de acordo com a Lei Geral de Proteção De Dados (LGPD). 
+
+ 
+
+- Política de Desativação de Conta: Conta de Usuários inativos por mais de 24 meses serão automaticamente desativadas. Ex-funcionários terão suas contas desativadas imediatamente após o desligamento. 
