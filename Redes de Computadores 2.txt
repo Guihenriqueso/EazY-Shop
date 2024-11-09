@@ -1,0 +1,18 @@
+Primeiro Piso
+Recepção - Receber visitas e funcionários para dentro da empresa
+Sala de Espera - Cômodo reservado para clientes esperarem, seja para reuniões, visitas ou
+nova contratação.
+Recursos Humanos - Responsáveis pela busca e contratação de novos funcionários.
+Banheiros - Para uso dos clientes.
+
+
+Segundo Piso
+Marketing - Responsável pelas campanhas da empresa, reputação e imagem.
+Sala de T.I - Responsável por todo o sistema da empresa, redes, banco de dados, sistemas
+internos.
+Sala da Diretoria - Responsável pela empresa, pela administração dela e pelas decisões
+tomadas.
+Financeiro - Responsável pelo rendimento da empresa, pelo lucro, pelo pagamento, pelas
+despesas.
+Sala de Reuniões - Cômodo para reuniões entre a equipe.
+Banheiros - Para os funcionários.
